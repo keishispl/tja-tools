@@ -1,1 +1,1 @@
-Please visit [this page](https://github.com/keishispl/tja-editor) instead.
+This is a redirect to [this page](https://github.com/keishispl/tja-editor).
